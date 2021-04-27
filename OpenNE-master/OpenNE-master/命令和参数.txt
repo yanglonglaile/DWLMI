@@ -1,0 +1,13 @@
+注意路径！！！！！！
+cd /d D:\cells 数据文件\2AdditionalExperiment\Embedding\OpenNE-master\OpenNE-master
+注意路径！！！！！！
+python -m openne --method deepWalk --input data/new/NewTrainName0.txt --graph-format edgelist --output vec_all0.txt --representation-size 64
+
+python -m openne --method deepWalk --input data/new/NewTrainName1.txt --graph-format edgelist --output vec_all1.txt --representation-size 64
+
+python -m openne --method deepWalk --input data/new/NewTrainName2.txt --graph-format edgelist --output vec_all2.txt --representation-size 64
+
+python -m openne --method deepWalk --input data/new/NewTrainName3.txt --graph-format edgelist --output vec_all3.txt --representation-size 64
+
+python -m openne --method deepWalk --input data/new/NewTrainName4.txt --graph-format edgelist --output vec_all4.txt --representation-size 64
+

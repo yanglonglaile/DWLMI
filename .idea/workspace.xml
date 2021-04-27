@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31d2d4f9-60c9-43be-bcd7-ff32fadf2a75" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Embedding 加数据$ROC_LI.coverage" NAME="分类器对比ROC图 LI Coverage Results" MODIFIED="1572931566958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../分类器对比" />
+    <SUITE FILE_PATH="coverage/Embedding_$PR_1_.coverage" NAME="分类器对比PR图(1) Coverage Results" MODIFIED="1569398088240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/分类器对比" />
+    <SUITE FILE_PATH="coverage/Embedding$1_attribute_manner__1_.coverage" NAME="1,训练预测attribute+manner (1) Coverage Results" MODIFIED="1567405875530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Embedding最初/3TrainTestAttribute+Embedding" />
+    <SUITE FILE_PATH="coverage/Embedding_$PR_5fold.coverage" NAME="PR-5fold Coverage Results" MODIFIED="1569398521735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5-fold-class" />
+    <SUITE FILE_PATH="coverage/Embedding 加数据$ROC_5fold__2_.coverage" NAME="ROC-5fold (2) Coverage Results" MODIFIED="1572327620093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Embedding 加数据/5-fold-class" />
+    <SUITE FILE_PATH="coverage/Embedding_$2AllNodeManner.coverage" NAME="2AllNodeManner Coverage Results" MODIFIED="1569329529856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2NodeFeature" />
+    <SUITE FILE_PATH="coverage/Embedding 加数据$2AllNodeManner.coverage" NAME="2AllNodeManner Coverage Results" MODIFIED="1579695546747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2NodeFeature" />
+    <SUITE FILE_PATH="coverage/Embedding$3RandomListPositive.coverage" NAME="3由RandomList生成Positive Coverage Results" MODIFIED="1568035307429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1Split" />
+    <SUITE FILE_PATH="coverage/Embedding$1RandomList.coverage" NAME="1RandomList Coverage Results" MODIFIED="1568035282243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1Split" />
+    <SUITE FILE_PATH="coverage/Embedding 加数据$PR_5fold__2_.coverage" NAME="PR-5fold (2) Coverage Results" MODIFIED="1572327718176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Embedding 加数据/5-fold-class" />
+    <SUITE FILE_PATH="coverage/Embedding 加数据$1_attribute_manner__1_.coverage" NAME="1,训练预测attribute+manner (1) Coverage Results" MODIFIED="1572326691849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Embedding 加数据/3TrainTestAttribute+Embedding" />
+    <SUITE FILE_PATH="coverage/Embedding_$2AllNodeManner_case_test.coverage" NAME="2AllNodeManner_case_test Coverage Results" MODIFIED="1569168930276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../数据文件 测试 删除三种病数据/case_study 研究/2NodeFeature" />
+    <SUITE FILE_PATH="coverage/Embedding$1_Attribute.coverage" NAME="1,训练预测Attribute Coverage Results" MODIFIED="1568798756150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3TrainTestAttribute" />
+    <SUITE FILE_PATH="coverage/Embedding_$1RandomList.coverage" NAME="1RandomList Coverage Results" MODIFIED="1569325971123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1Split" />
+    <SUITE FILE_PATH="coverage/Embedding_$4Segmentation.coverage" NAME="4训练测试的Segmentation Coverage Results" MODIFIED="1569326032653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1Split" />
+    <SUITE FILE_PATH="coverage/Embedding$2AllNodeManner.coverage" NAME="2AllNodeManner Coverage Results" MODIFIED="1568133619029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2NodeFeature" />
+    <SUITE FILE_PATH="coverage/Embedding$1AllNodeAttributeNum.coverage" NAME="1AllNodeAttributeNum Coverage Results" MODIFIED="1568040569137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2NodeFeature" />
+    <SUITE FILE_PATH="coverage/Embedding_$1_manner.coverage" NAME="1,训练预测manner Coverage Results" MODIFIED="1569397757821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3TrainTestEmbedding" />
+    <SUITE FILE_PATH="coverage/Embedding 加数据$PR_3_.coverage" NAME="分类器对比PR图(3) Coverage Results" MODIFIED="1572931680743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../分类器对比" />
+    <SUITE FILE_PATH="coverage/Embedding_$1_Attribute.coverage" NAME="1,训练预测Attribute Coverage Results" MODIFIED="1569397264437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3TrainTestAttribute" />
+    <SUITE FILE_PATH="coverage/Embedding 加数据$1_manner.coverage" NAME="1,训练预测manner Coverage Results" MODIFIED="1579696158018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3TrainTestEmbedding" />
+    <SUITE FILE_PATH="coverage/Embedding_$1_attribute_manner.coverage" NAME="1,训练预测attribute+manner Coverage Results" MODIFIED="1569397551220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3TrainTestAttribute+Embedding" />
+    <SUITE FILE_PATH="coverage/Embedding_$0AllNodeEdgeAttribute.coverage" NAME="0AllNodeEdgeAttribute Coverage Results" MODIFIED="1569166427401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../case_study 研究/0AllNodeEdge" />
+    <SUITE FILE_PATH="coverage/Embedding_$3RandomListPositive.coverage" NAME="3由RandomList生成Positive Coverage Results" MODIFIED="1569326013689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1Split" />
+    <SUITE FILE_PATH="coverage/Embedding$PR_5fold__2_.coverage" NAME="PR-5fold (2) Coverage Results" MODIFIED="1568821018995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PR attribute" />
+    <SUITE FILE_PATH="coverage/Embedding_$ROC_5fold.coverage" NAME="ROC-5fold Coverage Results" MODIFIED="1569398448532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5-fold-class" />
+    <SUITE FILE_PATH="coverage/Embedding_$ROC.coverage" NAME="分类器对比ROC图 Coverage Results" MODIFIED="1569397927907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/分类器对比" />
+    <SUITE FILE_PATH="coverage/Embedding 加数据$Doctest_partition.coverage" NAME="Doctest partition Coverage Results" MODIFIED="1579496409214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1Split" />
+    <SUITE FILE_PATH="coverage/Embedding 加数据$ROC.coverage" NAME="分类器对比ROC图 Coverage Results" MODIFIED="1572159561756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/分类器对比" />
+    <SUITE FILE_PATH="coverage/Embedding 加数据$1RandomList.coverage" NAME="1RandomList Coverage Results" MODIFIED="1572931889505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Embedding 加数据/1Split" />
+    <SUITE FILE_PATH="coverage/Embedding 加数据$3RandomListPositive.coverage" NAME="3由RandomList生成Positive Coverage Results" MODIFIED="1579496566034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1Split" />
+    <SUITE FILE_PATH="coverage/Embedding_$1_attribute_manner_casestudy___.coverage" NAME="1,训练预测attribute+manner_casestudy - 副本 Coverage Results" MODIFIED="1569169033981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../数据文件 测试 删除三种病数据/case_study 研究/3TrainTestAttribute+Embedding" />
+    <SUITE FILE_PATH="coverage/Embedding_$ROC_5fold__1_.coverage" NAME="ROC-5fold (1) Coverage Results" MODIFIED="1569398993662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3TrainTestAttribute+Embedding" />
+    <SUITE FILE_PATH="coverage/Embedding 加数据$PR_5fold__1_.coverage" NAME="PR-5fold (1) Coverage Results" MODIFIED="1572326934791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Embedding 加数据/3TrainTestEmbedding" />
+    <SUITE FILE_PATH="coverage/Embedding_$2ObjectEdgeNumcase.coverage" NAME="2ObjectEdgeNumcase Coverage Results" MODIFIED="1569166959937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../case_study 研究/0AllNodeEdge" />
+    <SUITE FILE_PATH="coverage/Embedding$4Segmentation.coverage" NAME="4训练测试的Segmentation Coverage Results" MODIFIED="1568039167443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1Split" />
+    <SUITE FILE_PATH="coverage/Embedding_$PR_5fold__3_.coverage" NAME="PR-5fold (3) Coverage Results" MODIFIED="1569150544148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5-fold-class" />
+    <SUITE FILE_PATH="coverage/Embedding$PR_5fold.coverage" NAME="PR-5fold Coverage Results" MODIFIED="1568820534312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PR attribute+manner" />
+    <SUITE FILE_PATH="coverage/Embedding 加数据$1_Attribute.coverage" NAME="1,训练预测Attribute Coverage Results" MODIFIED="1579695885973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3TrainTestAttribute" />
+    <SUITE FILE_PATH="coverage/Embedding 加数据$1AllNodeAttributeNum.coverage" NAME="1AllNodeAttributeNum Coverage Results" MODIFIED="1579695518424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2NodeFeature" />
+    <SUITE FILE_PATH="coverage/Embedding_$2AllNodeManner_case_train.coverage" NAME="2AllNodeManner_case_train Coverage Results" MODIFIED="1569168276133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../数据文件 测试 删除三种病数据/case_study 研究/2NodeFeature" />
+    <SUITE FILE_PATH="coverage/Embedding$1_attribute_manner.coverage" NAME="1,训练预测attribute+manner Coverage Results" MODIFIED="1568804348242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3TrainTestAttribute+Embedding" />
+    <SUITE FILE_PATH="coverage/Embedding_$4Segmentation_casestudy.coverage" NAME="4训练测试的Segmentation_casestudy Coverage Results" MODIFIED="1569167756069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../数据文件 测试 删除三种病数据/case_study 研究/1Split" />
+    <SUITE FILE_PATH="coverage/Embedding$2AllNodeManner__1_.coverage" NAME="2AllNodeManner (1) Coverage Results" MODIFIED="1567405733991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Embedding最初/2NodeFeature" />
+    <SUITE FILE_PATH="coverage/Embedding 加数据$2ObjectEdgeNum.coverage" NAME="2ObjectEdgeNum Coverage Results" MODIFIED="1579496293226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0AllNodeEdge" />
+    <SUITE FILE_PATH="coverage/Embedding$1NodeEdgeNum.coverage" NAME="1NodeEdgeNum Coverage Results" MODIFIED="1568020427583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0AllNodeEdge" />
+    <SUITE FILE_PATH="coverage/Embedding 加数据$4Segmentation.coverage" NAME="4训练测试的Segmentation Coverage Results" MODIFIED="1579497424396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1Split" />
+    <SUITE FILE_PATH="coverage/Embedding$PR_5fold__1_.coverage" NAME="PR-5fold (1) Coverage Results" MODIFIED="1568823289928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5-fold-class" />
+    <SUITE FILE_PATH="coverage/Embedding 加数据$1_attribute_manner.coverage" NAME="1,训练预测attribute+manner Coverage Results" MODIFIED="1579696082947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3TrainTestAttribute+Embedding" />
+    <SUITE FILE_PATH="coverage/Embedding_$PR_5fold__1_.coverage" NAME="PR-5fold (1) Coverage Results" MODIFIED="1569397794529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3TrainTestEmbedding" />
+    <SUITE FILE_PATH="coverage/Embedding_$ROC_5fold__2_.coverage" NAME="ROC-5fold (2) Coverage Results" MODIFIED="1569136701942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3TrainTestEmbedding" />
+    <SUITE FILE_PATH="coverage/Embedding_$1NodeEdgeNum.coverage" NAME="1NodeEdgeNum Coverage Results" MODIFIED="1569166443412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../case_study 研究/0AllNodeEdge" />
+    <SUITE FILE_PATH="coverage/Embedding$ROC_5fold.coverage" NAME="ROC-5fold Coverage Results" MODIFIED="1568804394187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3TrainTestAttribute+Embedding" />
+    <SUITE FILE_PATH="coverage/Embedding_$2ObjectEdgeNum.coverage" NAME="2ObjectEdgeNum Coverage Results" MODIFIED="1569167392711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../0AllNodeEdge" />
+    <SUITE FILE_PATH="coverage/Embedding 加数据$1NodeEdgeNum.coverage" NAME="1NodeEdgeNum Coverage Results" MODIFIED="1579496105725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0AllNodeEdge" />
+    <SUITE FILE_PATH="coverage/Embedding_$PR_5fold__2_.coverage" NAME="PR-5fold (2) Coverage Results" MODIFIED="1569149953294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3TrainTestEmbedding" />
+    <SUITE FILE_PATH="coverage/Embedding$2ObjectEdgeNum.coverage" NAME="2ObjectEdgeNum Coverage Results" MODIFIED="1568037626252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0AllNodeEdge" />
+    <SUITE FILE_PATH="coverage/Embedding 加数据$PR_1_.coverage" NAME="分类器对比PR图(1) Coverage Results" MODIFIED="1572161789681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/第一篇论文实验数据/第一篇论文实验数据 最新/Embedding/分类器对比" />
+    <SUITE FILE_PATH="coverage/Embedding$ROC_5fold__2_.coverage" NAME="ROC-5fold (2) Coverage Results" MODIFIED="1568819585699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3TrainTestEmbedding" />
+    <SUITE FILE_PATH="coverage/Embedding_$2NegativeSample.coverage" NAME="2NegativeSample Coverage Results" MODIFIED="1569325989755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1Split" />
+    <SUITE FILE_PATH="coverage/Embedding 加数据$ROC_5fold__1_.coverage" NAME="ROC-5fold (1) Coverage Results" MODIFIED="1572326904824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Embedding 加数据/3TrainTestEmbedding" />
+    <SUITE FILE_PATH="coverage/Embedding 加数据$ROC__1_.coverage" NAME="分类器对比ROC图 (1) Coverage Results" MODIFIED="1572160614031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/第一篇论文实验数据/第一篇论文实验数据 最新/Embedding/分类器对比" />
+    <SUITE FILE_PATH="coverage/Embedding$PR_5fold__4_.coverage" NAME="PR-5fold (4) Coverage Results" MODIFIED="1568822884830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/第一篇论文实验数据/Embedding/5-fold-class" />
+    <SUITE FILE_PATH="coverage/Embedding$0AllNodeEdgeAttribute.coverage" NAME="0AllNodeEdgeAttribute Coverage Results" MODIFIED="1568020401191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0AllNodeEdge" />
+    <SUITE FILE_PATH="coverage/Embedding 加数据$PR_5fold.coverage" NAME="PR-5fold Coverage Results" MODIFIED="1572326759759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Embedding 加数据/3TrainTestAttribute+Embedding" />
+    <SUITE FILE_PATH="coverage/Embedding$2NegativeSample.coverage" NAME="2NegativeSample Coverage Results" MODIFIED="1568039101118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1Split" />
+    <SUITE FILE_PATH="coverage/Embedding$ROC_5fold__1_.coverage" NAME="ROC-5fold (1) Coverage Results" MODIFIED="1568822576973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5-fold-class" />
+    <SUITE FILE_PATH="coverage/Embedding$1_manner.coverage" NAME="1,训练预测manner Coverage Results" MODIFIED="1568798779243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3TrainTestEmbedding" />
+    <SUITE FILE_PATH="coverage/Embedding 加数据$ROC_4_.coverage" NAME="分类器对比ROC图(4) Coverage Results" MODIFIED="1572159812314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/分类器对比" />
+    <SUITE FILE_PATH="coverage/Embedding 加数据$ROC_5fold.coverage" NAME="ROC-5fold Coverage Results" MODIFIED="1572326745500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Embedding 加数据/3TrainTestAttribute+Embedding" />
+    <SUITE FILE_PATH="coverage/Embedding 加数据$2NegativeSample.coverage" NAME="2NegativeSample Coverage Results" MODIFIED="1579496541988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1Split" />
+    <SUITE FILE_PATH="coverage/Embedding$PR_5fold__3_.coverage" NAME="PR-5fold (3) Coverage Results" MODIFIED="1568821143301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PR manner" />
+    <SUITE FILE_PATH="coverage/Embedding 加数据$0AllNodeEdgeAttribute.coverage" NAME="0AllNodeEdgeAttribute Coverage Results" MODIFIED="1579496097678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0AllNodeEdge" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Embedding 加数据" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectId" id="1WrxSV4Cb2v1y3p3rbNE5JLQ2Ee" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FullScreen" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Anaconda3/Scripts" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+  </component>
+  <component name="RunManager" selected="Python.ROC-5fold (2)">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Embedding" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Embedding" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Embedding" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Embedding" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration name="0,训练预测attribute+manner (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Embedding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4-ClassifierCompare/NaiveBayes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4-ClassifierCompare/NaiveBayes/0,训练预测attribute+manner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PR-5fold (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Embedding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4-ClassifierCompare/4,compare" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4-ClassifierCompare/4,compare/PR-5fold.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PR-5fold" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Embedding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4-ClassifierCompare/NaiveBayes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4-ClassifierCompare/NaiveBayes/PR-5fold.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ROC-5fold (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Embedding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4-ClassifierCompare/4,compare" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4-ClassifierCompare/4,compare/ROC-5fold.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ROC-5fold" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Embedding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4-ClassifierCompare/NaiveBayes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4-ClassifierCompare/NaiveBayes/ROC-5fold.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Embedding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="Embedding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="Embedding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="Embedding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="Embedding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.0,训练预测attribute+manner (1)" />
+      <item itemvalue="Python.ROC-5fold" />
+      <item itemvalue="Python.PR-5fold" />
+      <item itemvalue="Python.ROC-5fold (2)" />
+      <item itemvalue="Python.PR-5fold (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ROC-5fold (2)" />
+        <item itemvalue="Python.PR-5fold (2)" />
+        <item itemvalue="Python.PR-5fold" />
+        <item itemvalue="Python.ROC-5fold" />
+        <item itemvalue="Python.0,训练预测attribute+manner (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31d2d4f9-60c9-43be-bcd7-ff32fadf2a75" name="Default" comment="" />
+      <created>1567070716846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567070716846</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="668" y="133" key="#PR-5fold" timestamp="1579921688647">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="133" key="#PR-5fold/0.0.1920.1040@0.0.1920.1040" timestamp="1579921688647" />
+    <state x="673" y="343" key="FileChooserDialogImpl" timestamp="1579922769352">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="673" y="343" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579922769352" />
+    <state width="1882" height="249" key="GridCell.Tab.0.bottom" timestamp="1579928670584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1882" height="249" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579928670584" />
+    <state width="1882" height="249" key="GridCell.Tab.0.center" timestamp="1579928670584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1882" height="249" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579928670584" />
+    <state width="1882" height="249" key="GridCell.Tab.0.left" timestamp="1579928670584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1882" height="249" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579928670584" />
+    <state width="1882" height="249" key="GridCell.Tab.0.right" timestamp="1579928670584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1882" height="249" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579928670584" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1579924287287">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579924287287" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1579922735562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579922735562" />
+  </component>
+</project>
